@@ -1,0 +1,9 @@
+{
+  "author": {"name": "Petri Luukkonen"},
+  "name": "finance-data-pipeline",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-cdk-lib": "^2.130.0",
+    "constructs": "^10.0.0"
+  }
+}
